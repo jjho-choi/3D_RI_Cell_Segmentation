@@ -1,0 +1,17 @@
+
+preprocess:
+  zoomed_size: 256
+  patch_size: 128
+  z_size: 64
+  center_crop_size: 90
+  cell_resize_size: 128
+
+model:
+  suborgan: './weights/sub_organ.pth'
+  cell_by_cell: './weights/cell_inst.jit'
+
+data:
+  path: './data/20200609.153947.886.Hep G2-094.TCF'
+
+save:
+  path: './save'
