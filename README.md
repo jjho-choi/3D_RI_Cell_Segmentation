@@ -40,6 +40,7 @@ save:
 ```
 ### Inference
 Download sample data and weight file from this [link](https://drive.google.com/drive/folders/1j8qjk3tZL4Pk32855jwpww9A9_XygcRa?usp=sharing). 
+Download training dataset from this [link](https://www.dropbox.com/sh/ouzzvq46ys7wpoq/AAD7JA3AI6hEwAt331sM0kGCa?dl=0).
 
 Then, run the python script with the following command as bellow.
 ```bash
